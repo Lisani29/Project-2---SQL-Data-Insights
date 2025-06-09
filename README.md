@@ -33,9 +33,6 @@ GROUP BY name, gender
 ORDER BY total DESC
 LIMIT 10;
 
-![image](https://github.com/user-attachments/assets/156c349f-7f25-4c6a-9862-36e57638817d)
-
-
 **Insight:** The name James was the most common male name in California, followed by John and Robert. For females, Mary was most popular.
 
 **###  2. COVID-19 Deaths by Country (June 2021)**
