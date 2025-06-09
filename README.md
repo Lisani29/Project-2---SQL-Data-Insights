@@ -26,7 +26,7 @@ It includes insights derived from large real-world datasets like **US Baby Names
 ## Key Insights
 
 ###  1. Most Popular Baby Names in California
-```sql
+
 SELECT name, gender, SUM(number) as total
 FROM `bigquery-public-data.usa_names.usa_1910_2013`
 WHERE state = 'CA'
